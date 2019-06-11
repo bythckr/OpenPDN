@@ -13,3 +13,5 @@ extras/
 
 src/
     All source and other files necessary for building Paint.NET.
+    
+The final version I found was https://web.archive.org/web/20071217234833/http://www.getpaint.net/download.html#Download
